@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\MyExtension.Library\bin\Debug\MyExtension.Library.dll
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\MyExtension.Library\bin\Debug\MyExtension.Library.pdb
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\MyExtension.Library\bin\Debug\ThirdPart.Library.dll
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\MyExtension.Library\bin\Debug\ThirdPart.Library.pdb
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\MyExtension.Library\obj\Debug\MyExtension.Library.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\MyExtension.Library\obj\Debug\MyExtension.Library.dll
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\MyExtension.Library\obj\Debug\MyExtension.Library.pdb
