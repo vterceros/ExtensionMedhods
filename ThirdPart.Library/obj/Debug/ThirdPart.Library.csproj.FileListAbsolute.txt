@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\_MyGit\ThirdPart.Library\bin\Debug\ThirdPart.Library.dll
+C:\Users\HP\Documents\_MyGit\ThirdPart.Library\bin\Debug\ThirdPart.Library.pdb
+C:\Users\HP\Documents\_MyGit\ThirdPart.Library\obj\Debug\ThirdPart.Library.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\ThirdPart.Library\obj\Debug\ThirdPart.Library.dll
+C:\Users\HP\Documents\_MyGit\ThirdPart.Library\obj\Debug\ThirdPart.Library.pdb
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\ThirdPart.Library\bin\Debug\ThirdPart.Library.dll
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\ThirdPart.Library\bin\Debug\ThirdPart.Library.pdb
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\ThirdPart.Library\obj\Debug\ThirdPart.Library.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\ThirdPart.Library\obj\Debug\ThirdPart.Library.dll
+C:\Users\HP\Documents\_MyGit\ExtensionMethods\ThirdPart.Library\obj\Debug\ThirdPart.Library.pdb

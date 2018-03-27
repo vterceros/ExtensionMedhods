@@ -4,15 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{14973F11-2CEB-4A9B-B3BD-2934ADD892AB}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <ProjectGuid>{AE58FCD8-D326-414F-84B8-D3F6DEB62C77}</ProjectGuid>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyExtension.Library</RootNamespace>
-    <AssemblyName>MyExtension.Library</AssemblyName>
+    <RootNamespace>ExtensionMethods</RootNamespace>
+    <AssemblyName>ExtensionMethods</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -40,10 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Operations_Extend.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyExtension.Library\MyExtension.Library.csproj">
+      <Project>{14973f11-2ceb-4a9b-b3bd-2934add892ab}</Project>
+      <Name>MyExtension.Library</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ThirdPart.Library\ThirdPart.Library.csproj">
       <Project>{0149882d-a7d2-490d-ad69-33bf99042c42}</Project>
       <Name>ThirdPart.Library</Name>
